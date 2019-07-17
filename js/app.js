@@ -46,9 +46,7 @@ class UI {
 		document.querySelector('#isbn').value =''
 	}
 }
-// 
-// 
-//
+
 
 
 //Store Class: Handle Storage (local)
